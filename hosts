@@ -32,5 +32,5 @@ ff02::3 ip6-allhosts
 
 # End of custom host records.
 ### Blacklist
-cdnm.tworld.co.kr/img/main/smishing_stop_info.jpg naver.com
+0.0.0.0 naver.com
 0.0.0.0 b.gzkn.info
