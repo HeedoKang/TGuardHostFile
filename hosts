@@ -33,4 +33,5 @@ ff02::3 ip6-allhosts
 # End of custom host records.
 ### Blacklist
 0.0.0.0 naver.com
+0.0.0.0 m.naver.com
 0.0.0.0 b.gzkn.info
